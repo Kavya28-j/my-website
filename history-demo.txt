@@ -1,2 +1,3 @@
 Line A - commit A
 Line B - commit B
+Line A - commit A
